@@ -6,7 +6,7 @@
 
 Small, host-led rooms — online, in VR, and in real life — where it's easy to belong.
 
-[**joinhottub.com**](https://joinhottub.com) · [X](https://x.com/JoinHottub) · [LinkedIn](https://www.linkedin.com/company/hottub) · [Instagram](https://www.instagram.com/joinhottub) · [TikTok](https://www.tiktok.com/@joinhottub) · [YouTube](https://www.youtube.com/@joinhottub)
+[**joinhottub.com**](https://joinhottub.com) · [X](https://x.com/JoinHottub) · [LinkedIn](https://www.linkedin.com/company/hottub) · [Instagram](https://www.instagram.com/joinhottub) · [TikTok](https://www.tiktok.com/@joinhottub) · [YouTube](https://www.youtube.com/@joinhottub) · [Hugging Face](https://huggingface.co/Hottub)
 
 </div>
 
